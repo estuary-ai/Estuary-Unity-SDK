@@ -10,7 +10,7 @@ Estuary.  Our SDK leverages the
 Unity plugin, so connections can be made conveniently by specifying 
 the local IP address and port number of your Mangrove instance.
 
-## Give a Star! ⭐
+## Give us a Star! ⭐
 If you find Estuary helpful, please give us a star!  Your support means a lot! 
 If you find any bugs or would like to request a new feature, feel free to open an
 issue!
