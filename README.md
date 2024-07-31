@@ -1,7 +1,7 @@
 # Estuary-Unity-SDK
 
 ## Description
-The Estuary Unity SDK is a Unity plugin which allows for easy connection 
+The Estuary Unity SDK (dubbed **Mangrove SDK**) is a Unity plugin which allows for easy connection 
 to a running instance of [Mangrove](https://github.com/Al-Estuary/mangrove),
 the backend server component of Estuary.  This plugin includes a simple 
 example scene and a boilerplate prefab to help speed up development with 
