@@ -20,13 +20,16 @@ issue!
 <ol>
 <li> Copy the SocketIO plugin URL: 
 
-```https://github.com/itisnajim/SocketIOUnity.git``` 
+```bash
+https://github.com/itisnajim/SocketIOUnity.git
+```
+
 </li>
 <li> In your Unity project, open Window -> Package Manager </li>
 <li> Click on the "&#43;" button at the top left and select "Add package from git URL" </li>
 <li> Paste the link there and click "Add" or press enter</li>
 </li>
-<li> ***Optional***  If the above step does not work, the SocketIO Unity plugin 
+<li> [Optional]  If the above step does not work, the SocketIO Unity plugin 
 may have changed.  In this case, consult the 
 <a href="https://github.com/itisnajim/SocketIOUnity?tab=readme-ov-file#installation">
 SocketIO plugin installation guide</a>.
@@ -34,5 +37,7 @@ SocketIO plugin installation guide</a>.
 </ol>
 <li> Install the Estuary Unity SDK by repeating the previous step but using this URL instead:
 
-```https://github.com/Al-Estuary/Estuary-Unity-SDK.git```
+```bash
+https://github.com/Al-Estuary/Estuary-Unity-SDK.git
+```
 </li>
